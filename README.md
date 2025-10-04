@@ -9,6 +9,6 @@
 
 - 📜 CV available <a href="https://krutikmehtaa.github.io/files/resume/Krutik_Mehta.pdf" target="_blank">here</a>
 - 🧠 Interested in Intelligent Big Data Systems, GenAI, and Automation
+- 🌱 Currently building one-of-a-kind, open-source plugins for 3ds Max (MaxScript & C++) and SketchUp (Ruby)
 - 💻 Presently exploring Bias and Fairness in **LLMs**
-- 🌱 Currently building novel customized plugins using Ruby for Autodesk 3ds Max and SketchUp.
 - 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/krutikm/) or Email (krutikmehta [at] utexas [dot] edu)
