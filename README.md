@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Krutik Mehta</h1>
-<p align="center">Studying MS Information Science (Data Science) at the University of Texas at Austin</p>
+<p align="center">Studying MS Information Science (spec. Data Science) at the University of Texas at Austin</p>
 
 
 
