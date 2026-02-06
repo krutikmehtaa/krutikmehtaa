@@ -4,11 +4,6 @@
 <h1 align="center">Krutik Mehta</h1>
 <p align="center">Studying MS Information Science (spec. Data Science) at the University of Texas at Austin</p>
 
-
-# Hi there! 👋
-
-## 🛠️ Languages and Tools
-
 ### Languages
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -128,7 +123,5 @@
 </p>
 
 ---
-
-
 
 - 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/krutikm/) or Email (krutikmehta [at] utexas [dot] edu)
