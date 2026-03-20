@@ -9,9 +9,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
-  </a>
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
   </a>
@@ -106,6 +103,9 @@
 
 ### Tools & Platforms
 <p align="left">
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -137,10 +137,10 @@
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="confluence" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/krutikm/) or Email (krutikmehta [at] utexas [dot] edu)
+- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/krutikm/) or Email (krutikmehtaa [at] gmail [dot] com)
