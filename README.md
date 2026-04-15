@@ -87,9 +87,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/>
-  </a>
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
   </a>
@@ -110,11 +107,5 @@
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/alteryx/alteryx-icon.svg" alt="alteryx" width="40" height="40"/>
-  </a>
-  <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg" alt="cursor" width="40" height="40"/>
   </a>
 </p>
